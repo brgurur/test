@@ -1,3 +1,4 @@
 first text file.
 commit cmd by file name .
 commit to use ammend parameter . 
+diff command example.
