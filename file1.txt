@@ -3,4 +3,3 @@ commit cmd by file name .
 commit to use ammend parameter . 
 diff command example.
 stash with list
-add cmnts for revert cmd
