@@ -5,3 +5,7 @@ diff command example.
 stash with list
 this is from testing branch 
 bbbbbbbbbbbb
+1111111
+2222222
+3333333
+
