@@ -4,3 +4,4 @@ commit to use ammend parameter .
 diff command example.
 stash with list
 this is from testing branch 
+bbbbbbbbbbbb
